@@ -24,6 +24,7 @@ The project is intentionally kept simple and focuses primarily on HTML structure
 HTML5
 Git
 GitHub
+
 📂 Project Structure
 odin-recipes/
 │
@@ -35,6 +36,7 @@ odin-recipes/
 │   └── recipe-3.html
 │
 └── README.md
+
 🎯 What I Learned
 
 Through this project, I practiced:
