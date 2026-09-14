@@ -31,9 +31,9 @@ odin-recipes/
 ├── index.html
 │
 ├── recipes/
-│   ├── recipe-1.html
-│   ├── recipe-2.html
-│   └── recipe-3.html
+│   ├── carbonra.html
+│   ├── pancakes.html
+├── images/
 │
 └── README.md
 
