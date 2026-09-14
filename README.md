@@ -54,9 +54,7 @@ The project also helped me understand how multiple HTML pages can be connected t
 
 🚀 How to Run the Project
 
-Clone the repository:
-
-git clone <your-repository-url>
+Clone the repository:  git clone your-repository-url
 
 Navigate to the project folder:
 
